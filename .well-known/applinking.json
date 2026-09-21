@@ -1,10 +1,10 @@
 {
-  "applinking": {
-    "apps": [
-       {
-        "appIdentifier": "6917616033403170626",
-        "index": 1
-      }
-    ]
-  }
+    "applinking": {
+        "apps": [
+            {
+                "appIdentifier": "6917616033403170626",
+                "index": 1
+            }
+        ]
+    }
 }
